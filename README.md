@@ -1,2 +1,2 @@
-# Object Detection on Jetson Nano using Color
-Real time Computer Vision applications with fundamentals of Image Processing.
+# Object Detection and Tracking with OpenCV on NVIDIA Jetson Nano
+Developed a real-time object detection and tracking system leveraging HSV color thresholding and contour-based algorithms using OpenCV. The system runs on the NVIDIA Jetson Nano, utilizing its onboard GPU for accelerated image processing, enabling smooth and efficient tracking in dynamic environments. Designed for applications in smart surveillance and vision-based automation, the project showcases optimized performance for embedded AI tasks.
