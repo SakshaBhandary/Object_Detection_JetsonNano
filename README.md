@@ -1,6 +1,7 @@
 # Object Detection and Tracking with OpenCV on NVIDIA Jetson Nano
 
 <img src="https://github.com/user-attachments/assets/693df907-ccbb-42a3-8a68-19697291ac64" width="350" height="350">
+<img width="350" height="350" src="https://github.com/user-attachments/assets/1c66420b-3f55-43ee-991d-e8a1dc9b15bd" />
 
 Developed a real-time object detection and tracking system leveraging HSV color thresholding and contour-based algorithms using OpenCV. The system runs on the NVIDIA Jetson Nano, utilizing its onboard GPU for accelerated image processing, enabling smooth and efficient tracking in dynamic environments. Designed for applications in smart surveillance and vision-based automation, the project showcases optimized performance for embedded AI tasks.
 
